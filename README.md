@@ -1,2 +1,2 @@
-# beta-sup
-β-Sup - Next gen support tickets management
+# β-sup
+β-Sup - Next gen support ticket management
